@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1xOzA6ShOEJbvdQE5-AhveXitnDg-n4UF
 """
 
+#Instalação das bibliotecas
 !pip install gdal
 !pip install rasterio
 
